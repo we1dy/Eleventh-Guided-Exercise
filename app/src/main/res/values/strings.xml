@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EleventhGuidedExercise</string>
+    <string name="intent_guided_exercise">Intent Guided Exercise</string>
+    <string name="gender">Gender</string>
+    <string name="what_is_are_your_favourite_computer_subjects">What is/are your favourite computer subjects?</string>
+    <string name="what_job_do_you_prefer_after_graduation">What job do you prefer after graduation?</string>
+    <string name="which_do_you_prefer_for_a_thesis_topic_title">Which do you prefer for a thesis/topic title?</string>
+</resources>
